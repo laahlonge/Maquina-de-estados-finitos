@@ -1,7 +1,0 @@
-6
-ab
-c
-babbab
-abb
-abc
-a
